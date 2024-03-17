@@ -1,18 +1,36 @@
+## React JS with TypeScript Crash Course
+
+This repository contains the materials I learned from the "React JS with TypeScript Crash Course" on Udemy.
+
 **Description:**
 
-This course provides a comprehensive understanding of React JS with **TypeScript**, catering to both beginners and professionals aiming to excel in software development as React JS developers. Presented by **NAVEEN SAGGAM**, owner of **UiBrains Technologies** YouTube channel, this unique course delves into the complete JavaScript programming language, offering practical examples for enhanced comprehension and hands-on experience. Covering essential concepts, including:
+This course provided a comprehensive understanding of React JS with TypeScript, covering fundamental concepts such as project setup, state and props management, event handling, API integration, and more. With practical examples and hands-on experience, I developed the skills necessary to confidently build React JS applications, enhance my software development proficiency, and excel in React JS interviews. This course has equipped me with the knowledge and confidence to embark on new projects and pursue opportunities in React JS development.
 
-- React JS introduction
-- Project creation
-- Folder structure
-- CSS styling
-- Third-party library integration (Bootstrap, Font Awesome Icons, Google Fonts)
-- Props and state management
-- Event and form handling
-- Conditional rendering
-- List iteration
-- Server connectivity
-- API calls using Axios
-- Routing in React JS with **TypeScript**
+**Course Content:**
 
-Participants will gain practical knowledge to develop React JS applications confidently. By the end, learners will have the skills to develop new projects, excel in React JS interviews, and create their own React JS applications.
+- Introduction to React JS with TypeScript.
+- Creating a project with React & TypeScript.
+- Folder structure & Control flow with React JS.
+- Configuring CSS styles with React JS.
+- Configuring Bootstrap, Font Awesome Icons, Google fonts with React JS.
+- Props Concept with React JS Functional components & Class-based components.
+- State Concept with React JS Functional components & Class-based components.
+- Event handling in React JS applications.
+- Form handling in React JS.
+- Conditionally rendering content in React JS.
+- Rendering and iterating the list of items in React JS.
+- Server connection with React JS application and API calls using Axios.
+- Routing in React JS with TypeScript.
+
+**What I Learned:**
+
+- Practical knowledge on React JS with TypeScript.
+- Better understanding of React JS applications.
+- Ability to develop new applications or projects using React JS with TypeScript.
+- Confidence in attending interviews in React JS and developing own React JS applications.
+
+**Conclusion:**
+
+Through this course, I gained a comprehensive understanding of React JS with TypeScript, covering fundamental concepts such as project setup, state and props management, event handling, API integration, and more. With practical examples and hands-on experience, I developed the skills necessary to confidently build React JS applications, enhance my software development proficiency, and excel in React JS interviews. This course has equipped me with the knowledge and confidence to embark on new projects and pursue opportunities in React JS development.
+
+*Course Source: Udemy*
